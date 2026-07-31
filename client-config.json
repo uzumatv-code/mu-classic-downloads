@@ -1,7 +1,7 @@
 {
-  "online": false,
-  "host": "",
-  "port": 0,
-  "message": "O servidor publico esta sendo preparado. Acompanhe a abertura oficial no site do MU Classic.",
-  "websiteUrl": ""
+  "online": true,
+  "host": "179.198.106.187",
+  "port": 44406,
+  "message": null,
+  "websiteUrl": "https://mu-classic-landing-production.up.railway.app"
 }
